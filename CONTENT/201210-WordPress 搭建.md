@@ -18,13 +18,11 @@ WordPress 怎么用呢？如何创建一个WordPress 网站或者WordPress博客
 - **如何找到好的域名**：如果您苦于找不到心怡的域名，可以去[NameStation](https://www.namestation.com/)看一看，只要提供关键字，就有可能得到大量的域名，供您选择。
 - **带有www的域名：**您可能会注意到有的网站具有www作为前缀，而另外一些网站没有，比如目前您所访问的网站域名是www.howlifeusa.com，而彼得自己的个人网页就设置成了peterdzh.com。其实带有www的域名是不带www域名的子域名，比如www.howlifeusa.com就是howlifeusa.com的子域名。您在安装WordPress的时候，可以选择使用哪一种形式 (带www或者不带www)来显示您的网站。
 
-**详细教程：**[域名注册与购买](https://www.howlifeusa.com/domain-registration)
-
 ## 步骤二: 申请虚拟主机
 
-虚拟主机 (Web Hosting)是一个网络空间，用于存放网站的文字、图片和视频等内容，可以是当地的服务器，也可以是云空间 (比如亚马逊提供的[AWS](https://aws.amazon.com/cn/free/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core|Core|US|EN|Text&sc_content=Brand_Core_e&sc_detail=amazon - aws&sc_category=Core&sc_segment=293614486740&sc_matchtype=e&sc_country=US&s_kwcid=AL!4422!3!293614486740!e!!g!!amazon - aws&ef_id=WTI4QgAAAKMfsi2y:20181020175325:s)) 。
+虚拟主机 (Web Hosting)是一个网络空间，用于存放网站的文字、图片和视频等内容，可以是当地的服务器，也可以是云空间 (比如亚马逊提供的[AWS](https://aws.amazon.com/cn/free/?sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=google&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Core|Core|US|EN|Text&sc_content=Brand_Core_e&sc_detail=amazon-aws&sc_category=Core&sc_segment=293614486740&sc_matchtype=e&sc_country=US&s_kwcid=AL!4422!3!293614486740!e!!g!!amazon-aws&ef_id=WTI4QgAAAKMfsi2y:20181020175325:s)）。
 
-#### **虚拟主机类型**
+### **虚拟主机类型**
 
 目前虚拟主机的类型大概有五种。
 
@@ -34,7 +32,7 @@ WordPress 怎么用呢？如何创建一个WordPress 网站或者WordPress博客
 - 虚拟专用服务器 (Virtual Private Server)；
 - 管理型WordPress主机 (Managed WordPress Hosting)。
 
-#### **如何选择？**
+### **如何选择？**
 
 我们建议您使用管理型WordPress主机，这种主机完全为WordPress定制，所以能够保证网站的高速,同时容易实现搜索引擎 (SEO) 优化，达到提升搜索引擎排名的目的。
 
@@ -64,7 +62,7 @@ WordPress安装：您需要在主机中安装WordPress，这样网站就可以�
 
 **WordPress登陆:** 安装完成之后，使用安装时设置的用户名和密码登陆WordPress 后台，登陆地址在：https://网站名/wp-admin, WordPress提供多用户注册功能，如果您的网站需要多人管理，您可以让每一个用户都完成WordPress 注册。
 
-**详细教程：**[在SiteGround主机中安装WordPress](https://www.howlifeusa.com/install-wordpress-siteground/)
+**详细教程：** 待补
 
 ## 步骤五：安装SSL安全证书
 
